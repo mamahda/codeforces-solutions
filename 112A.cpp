@@ -4,6 +4,7 @@ using namespace std;
 int main()
 {
     string s1, s2;
+    int ans1, ans2;
     cin >> s1 >> s2;
  
     for (auto& x : s1) { 
